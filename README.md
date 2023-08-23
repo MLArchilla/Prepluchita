@@ -1,2 +1,1 @@
-# Prepluchita
-repositorio del modulo 2 del prepcourse de henry
+este es un proyecto de prueba de como clonar un repositorio desde github a mi computadora
